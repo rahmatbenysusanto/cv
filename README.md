@@ -1,7 +1,7 @@
 I made this document to help anyone, who will work or connect with me, to knowing me better.
 
 ### Resume/CV:
-* [PDF]()
+* [PDF](https://github.com/L200180079/cv/raw/README_Rahmat-Beny-Susanto.pdf)
 
 ## About Me
 * My full name is **Rahmat Beny Susanto**.
