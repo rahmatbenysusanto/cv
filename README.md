@@ -2,7 +2,6 @@ I made this document to help anyone, who will work or connect with me, to knowin
 
 ### Resume/CV:
 * [PDF](https://github.com/rahmatbenysusanto/cv/blob/main/RESUME_Rahmat-Beny-Susanto.pdf)
-### Linkedin:
 * [Linkedin](https://www.linkedin.com/in/rahmat-beny-susanto-023372207/)
 
 ## About Me
