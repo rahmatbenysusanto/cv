@@ -31,5 +31,5 @@ I made this document to help anyone, who will work or connect with me, to knowin
 * Transparency
 
 ## Latest Projects
-* [Telkom Amoeba](https://digitalamoeba.id/)
+* [E-Audit Kab Boyolali](https://www.youtube.com/watch?v=2JZxdtsxCDg&ab_channel=InspektoratBoyolali)
 * [Yulian Aquatic](https://yulianaquatic.com)
