@@ -32,4 +32,4 @@ I made this document to help anyone, who will work or connect with me, to knowin
 
 ## Latest Projects
 * [Telkom Amoeba](https://digitalamoeba.id/)
-* [Yulian Aquatic](https:://yulianaquatic.com)
+* [Yulian Aquatic](https://yulianaquatic.com)
